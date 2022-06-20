@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "summarytools"]
+	path = summarytools
+	url = https://github.com/dcomtois/summarytools
+	shallow = true
+	registered = true
